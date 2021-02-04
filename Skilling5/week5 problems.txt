@@ -1,0 +1,19 @@
+'''
+Relative Frequency Distribution - A relative frequency distribution shows the proportion of the total number of observations associated with each value or class of values and is related to a probability distribution, which is extensively used in statistics.
+
+Cummilative Frequency Distribution - Cumulative frequency distribution is a form of a frequency distribution that represents the sum of a class and all classes below it. ... The cumulative frequency distribution is extremely helpful when we need to determine the frequency up to a certain threshold.
+
+Gaussian Distribution - Normal distribution, also known as the Gaussian distribution, is a probability distribution that is symmetric about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean. In graph form, normal distribution will appear as a bell curve.
+
+Q)What's the difference between Frequency and Relative Frequency? 
+A)The only difference between a frequency histogram and a relative frequency histogram is that the vertical axis uses relative or proportional frequency instead of simple frequency
+
+
+Skilling Exercise 5
+Data Distribution
+A distribution of data is a representation showing all possible values (or intervals) and how often those values occur. When a distribution is plotted into a graph, we can observe different shapes of the curve. Based on the shape and other attributes, there exists many types of distributions.
+Implement the following
+a) Relative frequency distribution graph
+b) Cumulative relative frequency graph
+c) bell curve or Gaussian distribution
+'''
